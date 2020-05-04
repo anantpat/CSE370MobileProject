@@ -5,14 +5,14 @@ The entire code is located in App.js and LoginScreen.js is a component within Ap
 
 Steps:
 
-Clone the github repo 
+1. Clone the github repo 
 
-Open terminal 
+2. Open terminal 
 
-Navigate to the project directory
+3. Navigate to the project directory
 
-Run npm start
+4. Run npm start
 
-Screenshots of the project have been added to this github repo to help with verification of how the project should look locally
+5. Screenshots of the project have been added to this github repo to help with verification of how the project should look locally
 
 Thank you!
